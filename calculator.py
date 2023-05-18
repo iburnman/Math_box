@@ -13,3 +13,7 @@ def multiply(x, y):
 # 나누기
 def devide(x, y):
     return x / y
+
+# 제곱
+def square(x):
+    return x ** 2

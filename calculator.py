@@ -19,3 +19,7 @@ def devide(x, y):
 # 제곱
 def square(x):
     return x ** 2
+
+# 몫
+def rest(x, n):
+    return x // n

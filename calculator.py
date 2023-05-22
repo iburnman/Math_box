@@ -21,5 +21,5 @@ def square(x):
     return x ** 2
 
 # 몫
-def rest_premium(x, n):
+def rest_new(x, n):
     return x // n

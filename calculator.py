@@ -23,3 +23,7 @@ def square(x):
 # 몫
 def rest_free(x, n):
     return x // n
+
+#인사
+def say_hello(x):
+    return x
